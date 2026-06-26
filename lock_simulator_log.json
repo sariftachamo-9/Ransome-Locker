@@ -1,0 +1,26 @@
+{"timestamp": "2026-06-26T15:02:11.278104", "event": "PERSISTENCE", "action": "CHECK_PERSISTENCE", "details": "{'registry': False, 'task': False, 'files': False}"}
+{"timestamp": "2026-06-26T15:02:11.279408", "event": "PERSISTENCE", "action": "REGISTRY", "details": "Added successfully"}
+{"timestamp": "2026-06-26T15:02:11.314192", "event": "PERSISTENCE", "action": "TASK_SCHEDULER", "details": "Added successfully"}
+{"timestamp": "2026-06-26T15:02:11.317193", "event": "PERSISTENCE", "action": "FILE_COPY", "details": "Created: C:\\Windows\\Temp\\sysmon.exe"}
+{"timestamp": "2026-06-26T15:02:11.318226", "event": "PERSISTENCE", "action": "FILE_COPY", "details": "Failed: [WinError 5] Access is denied: 'C:\\\\ProgramData\\\\Microsoft\\\\Security'"}
+{"timestamp": "2026-06-26T15:02:11.318226", "event": "PERSISTENCE", "action": "PERSISTENCE_INSTALL", "details": "Installed: {'registry': True, 'task': True, 'files': False, 'winlogon': 'skipped'}"}
+{"timestamp": "2026-06-26T15:02:11.736331", "event": "WARNING", "details": "Running on physical machine - USE VM!", "system": {"hostname": "DESKTOP-542A3EJ", "os": "Windows", "os_version": "10.0.26200", "python_version": "3.12.10"}}
+{"timestamp": "2026-06-26T15:02:12.555120", "event": "STARTUP", "details": "VM: False, Domain: WORKGROUP", "system": {"hostname": "DESKTOP-542A3EJ", "os": "Windows", "os_version": "10.0.26200", "python_version": "3.12.10"}}
+{"timestamp": "2026-06-26T15:02:41.775612", "event": "ATTEMPT", "details": "Password entered (length: 8)", "system": {"hostname": "DESKTOP-542A3EJ", "os": "Windows", "os_version": "10.0.26200", "python_version": "3.12.10"}}
+{"timestamp": "2026-06-26T15:02:41.775612", "event": "SUCCESS", "details": "Correct after 0 attempts", "system": {"hostname": "DESKTOP-542A3EJ", "os": "Windows", "os_version": "10.0.26200", "python_version": "3.12.10"}}
+{"timestamp": "2026-06-26T15:02:41.776511", "event": "UNLOCK", "details": "Decoy: False", "system": {"hostname": "DESKTOP-542A3EJ", "os": "Windows", "os_version": "10.0.26200", "python_version": "3.12.10"}}
+{"timestamp": "2026-06-26T15:02:41.824913", "event": "PERSISTENCE", "action": "PERSISTENCE_REMOVED", "details": "All persistence removed"}
+{"timestamp": "2026-06-26T15:02:41.825846", "event": "PERSISTENCE_REMOVED", "details": "All persistence removed", "system": {"hostname": "DESKTOP-542A3EJ", "os": "Windows", "os_version": "10.0.26200", "python_version": "3.12.10"}}
+{"timestamp": "2026-06-26T15:06:09.541258", "event": "PERSISTENCE", "action": "CHECK_PERSISTENCE", "details": "{'registry': False, 'task': False, 'files': False}"}
+{"timestamp": "2026-06-26T15:06:09.541258", "event": "PERSISTENCE", "action": "REGISTRY", "details": "Added successfully"}
+{"timestamp": "2026-06-26T15:06:09.575495", "event": "PERSISTENCE", "action": "TASK_SCHEDULER", "details": "Added successfully"}
+{"timestamp": "2026-06-26T15:06:09.578101", "event": "PERSISTENCE", "action": "FILE_COPY", "details": "Created: C:\\Windows\\Temp\\sysmon.exe"}
+{"timestamp": "2026-06-26T15:06:09.578101", "event": "PERSISTENCE", "action": "FILE_COPY", "details": "Failed: [WinError 5] Access is denied: 'C:\\\\ProgramData\\\\Microsoft\\\\Security'"}
+{"timestamp": "2026-06-26T15:06:09.578101", "event": "PERSISTENCE", "action": "PERSISTENCE_INSTALL", "details": "Installed: {'registry': True, 'task': True, 'files': False, 'winlogon': 'skipped'}"}
+{"timestamp": "2026-06-26T15:06:09.898308", "event": "WARNING", "details": "Running on physical machine - USE VM!", "system": {"hostname": "DESKTOP-542A3EJ", "os": "Windows", "os_version": "10.0.26200", "python_version": "3.12.10"}}
+{"timestamp": "2026-06-26T15:06:10.288988", "event": "STARTUP", "details": "VM: False, Domain: WORKGROUP", "system": {"hostname": "DESKTOP-542A3EJ", "os": "Windows", "os_version": "10.0.26200", "python_version": "3.12.10"}}
+{"timestamp": "2026-06-26T15:06:15.634654", "event": "ATTEMPT", "details": "Password entered (length: 8)", "system": {"hostname": "DESKTOP-542A3EJ", "os": "Windows", "os_version": "10.0.26200", "python_version": "3.12.10"}}
+{"timestamp": "2026-06-26T15:06:15.635631", "event": "SUCCESS", "details": "Correct after 0 attempts", "system": {"hostname": "DESKTOP-542A3EJ", "os": "Windows", "os_version": "10.0.26200", "python_version": "3.12.10"}}
+{"timestamp": "2026-06-26T15:06:15.635631", "event": "UNLOCK", "details": "Decoy: False", "system": {"hostname": "DESKTOP-542A3EJ", "os": "Windows", "os_version": "10.0.26200", "python_version": "3.12.10"}}
+{"timestamp": "2026-06-26T15:06:15.683134", "event": "PERSISTENCE", "action": "PERSISTENCE_REMOVED", "details": "All persistence removed"}
+{"timestamp": "2026-06-26T15:06:15.683134", "event": "PERSISTENCE_REMOVED", "details": "All persistence removed", "system": {"hostname": "DESKTOP-542A3EJ", "os": "Windows", "os_version": "10.0.26200", "python_version": "3.12.10"}}

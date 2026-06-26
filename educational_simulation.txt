@@ -1,0 +1,5 @@
+This file indicates this is an educational simulation.
+Run ONLY in isolated Virtual Machines.
+DO NOT deploy on real systems.
+
+STUDY PURPOSE ONLY - NOT FOR MALICIOUS USE
