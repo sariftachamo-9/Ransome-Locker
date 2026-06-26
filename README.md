@@ -39,5 +39,3 @@ LockScreenProject/
 - A file named `educational_simulation.txt` must exist in the project root to bypass the safety prompt.
 - Press **ESC** at any time to exit safely.
 
----
-*Created by Antigravity AI coding assistant.*
